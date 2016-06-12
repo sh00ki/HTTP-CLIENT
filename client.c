@@ -1,4 +1,4 @@
-// Yoad Shiran - 302978713 - ex2 http client
+// Yoad Shiran - http client
 
 #include <netdb.h>
 #include <stdio.h>
